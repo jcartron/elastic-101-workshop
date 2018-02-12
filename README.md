@@ -1,6 +1,8 @@
 # elastic-101-workshop
 
-Material for the elastic night class for the elastic Meetup Singapore https://www.meetup.com/de-DE/ElasticSG/events/243138279/
+Material for the elastic night class for the elastic Meetup Singapore 
+* https://www.meetup.com/de-DE/ElasticSG/events/243138279/
+* https://www.meetup.com/de-DE/ElasticSG/events/247308239/
 
 ## Docker Compose usage
 You must have installed docker in your computer.
